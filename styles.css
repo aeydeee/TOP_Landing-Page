@@ -44,6 +44,12 @@ ul li a {
   color: #fff;
 }
 
+ul li a:hover {
+  background-color: rgb(10, 163, 163);
+  padding: 10px;
+  border-radius: 10px;
+}
+
 li {
   list-style: none;
 }
